@@ -8,8 +8,8 @@
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
-  define('URLROOT', 'https://4you.co.za/CorrieCrudNew');
+  define('URLROOT', '127.0. 0.1');
   // Site Name
-  define('SITENAME', 'Corrie Crud New');
+  define('SITENAME', 'Corrie Crud');
   // App Version
   define('APPVERSION', '1.0.0');
