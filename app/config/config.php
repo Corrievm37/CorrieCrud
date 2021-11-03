@@ -1,9 +1,9 @@
 <?php
   // DB Params
-  define('DB_HOST', '4you.co.za');
-  define('DB_USER', 'o4youfqw_corrie');
-  define('DB_PASS', 'Lekker@231');
-  define('DB_NAME', 'o4youfqw_grud');
+  define('DB_HOST', 'localhost');
+  define('DB_USER', 'root');
+  define('DB_PASS', '');
+  define('DB_NAME', 'corriecrud');
 
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
